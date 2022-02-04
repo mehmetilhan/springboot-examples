@@ -58,6 +58,8 @@
     </build>
     <modules>
         <module>springboot-kafka</module>
+        <module>springboot-rabbitmq</module>
+        <module>springboot-eventlistener</module>
     </modules>
     <packaging>pom</packaging>
 
